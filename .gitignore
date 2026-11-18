@@ -1,0 +1,12 @@
+__pycache__/
+*.env
+!*.env.example
+inspections/
+app_settings.json
+*.lnk
+logs/
+
+# local Python environment and editor backups
+.venv/
+*.bak*
+

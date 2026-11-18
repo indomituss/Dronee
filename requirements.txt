@@ -1,0 +1,7 @@
+djitellopy
+opencv-python
+pygame
+numpy
+requests
+python-dotenv
+pillow
